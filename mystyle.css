@@ -29,9 +29,10 @@ body {
 }
 
 img {
+    display: block;
     border-radius: 0.625rem;
     max-height: 17rem;
-    max-width: 17rem;
+    max-width: 100%;
 }
 
 h1 {
